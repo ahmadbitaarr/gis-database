@@ -1,6 +1,9 @@
 # 🗺 GIS Database – KD-Tree + BST Multi-Index System
 > ⚠️ **The full source code is private due to course policy.**   
 > ⚡ 90%+ mutation-tested validation.
+> Source Code: https://github.com/ahmadbitaarr/gis-database-private/tree/main
+> Email: ahmadbitar2005@gmail.com
+> Linkedln: www.linkedin.com/in/ahmad-f-bitar
 
 ---
 
